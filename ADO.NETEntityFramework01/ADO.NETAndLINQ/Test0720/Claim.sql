@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Claim]
+(
+	[ClaimId] INT NOT NULL PRIMARY KEY, 
+    [Name] NVARCHAR(50) NULL ,
+	PRIMARY KEY CLUSTERED  ([ClaimId] ASC)
+)
