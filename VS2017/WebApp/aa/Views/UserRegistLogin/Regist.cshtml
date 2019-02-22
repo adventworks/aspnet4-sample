@@ -1,0 +1,23 @@
+﻿@model aa.Models.User
+
+@{
+    ViewBag.Title = "Regist";
+}
+
+<h2>Regist</h2>
+@using (Html.BeginForm())
+{
+    <p>
+       @Html.DisplayText("UserID")
+    </p>
+    <p>
+       @Html.DisplayText("UserName")
+    </p>
+    <p>
+       @Html.DisplayText("PrimaryEmail")
+    </p>
+    <p>
+    @*@Html.DropDownList("Roles")*@
+    </p>
+    <input type="submit" value="Register Me" />
+}

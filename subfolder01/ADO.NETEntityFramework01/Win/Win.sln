@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win", "Win\Win.csproj", "{895D469F-C9A3-487D-A818-D6AADCE2F4A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbadExcel", "EmbadExcel\EmbadExcel.csproj", "{517CA124-EABE-4168-8190-524C8F8EB5C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportExcelTemplate", "ExportExcelTemplate\ExportExcelTemplate.csproj", "{9CE1CF19-6CF1-4D91-BAA9-3BF57207C441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win1PicturToVideo", "Win1PicturToVideo\Win1PicturToVideo.csproj", "{A4044536-DAF8-4A1D-B6A5-EAF5E173D54B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win2ImagesToVideo", "Win2ImagesToVideo\Win2ImagesToVideo.csproj", "{791631E9-CBB9-4BBD-81D9-5006351434F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win3DeleteFileText", "Win3DeleteFileText\Win3DeleteFileText.csproj", "{6A35A1FE-AB7B-455F-8B94-E3FD214F6E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppDataGrid", "WpfAppDataGrid\WpfAppDataGrid.csproj", "{12A8E979-66F5-4443-8BB7-BB3411FEAE4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{895D469F-C9A3-487D-A818-D6AADCE2F4A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895D469F-C9A3-487D-A818-D6AADCE2F4A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895D469F-C9A3-487D-A818-D6AADCE2F4A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895D469F-C9A3-487D-A818-D6AADCE2F4A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517CA124-EABE-4168-8190-524C8F8EB5C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517CA124-EABE-4168-8190-524C8F8EB5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517CA124-EABE-4168-8190-524C8F8EB5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517CA124-EABE-4168-8190-524C8F8EB5C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CE1CF19-6CF1-4D91-BAA9-3BF57207C441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE1CF19-6CF1-4D91-BAA9-3BF57207C441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE1CF19-6CF1-4D91-BAA9-3BF57207C441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE1CF19-6CF1-4D91-BAA9-3BF57207C441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4044536-DAF8-4A1D-B6A5-EAF5E173D54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4044536-DAF8-4A1D-B6A5-EAF5E173D54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4044536-DAF8-4A1D-B6A5-EAF5E173D54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4044536-DAF8-4A1D-B6A5-EAF5E173D54B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{791631E9-CBB9-4BBD-81D9-5006351434F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{791631E9-CBB9-4BBD-81D9-5006351434F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{791631E9-CBB9-4BBD-81D9-5006351434F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{791631E9-CBB9-4BBD-81D9-5006351434F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A35A1FE-AB7B-455F-8B94-E3FD214F6E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A35A1FE-AB7B-455F-8B94-E3FD214F6E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A35A1FE-AB7B-455F-8B94-E3FD214F6E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A35A1FE-AB7B-455F-8B94-E3FD214F6E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12A8E979-66F5-4443-8BB7-BB3411FEAE4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A8E979-66F5-4443-8BB7-BB3411FEAE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A8E979-66F5-4443-8BB7-BB3411FEAE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A8E979-66F5-4443-8BB7-BB3411FEAE4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
