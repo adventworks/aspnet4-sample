@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{F9E58432-37C3-40C7-A036-E110BC252EC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorProcessesNetworkUsage", "MonitorProcessesNetworkUsage\MonitorProcessesNetworkUsage.csproj", "{13F63162-1770-4E43-A676-4B0DC175DE13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQRecursive", "LINQRecursive\LINQRecursive.csproj", "{885314B2-8FB8-493D-8F63-838C07FBA051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridBackColor", "DataGridBackColor\DataGridBackColor.csproj", "{CE551982-6B0C-45AB-BCA8-CBF7022FDC22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridWebForm", "DataGridWebForm\DataGridWebForm.csproj", "{2C26F296-AAF9-4F93-A4EB-9A6A81D0A742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9E58432-37C3-40C7-A036-E110BC252EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E58432-37C3-40C7-A036-E110BC252EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E58432-37C3-40C7-A036-E110BC252EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E58432-37C3-40C7-A036-E110BC252EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F63162-1770-4E43-A676-4B0DC175DE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F63162-1770-4E43-A676-4B0DC175DE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F63162-1770-4E43-A676-4B0DC175DE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F63162-1770-4E43-A676-4B0DC175DE13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{885314B2-8FB8-493D-8F63-838C07FBA051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885314B2-8FB8-493D-8F63-838C07FBA051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885314B2-8FB8-493D-8F63-838C07FBA051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885314B2-8FB8-493D-8F63-838C07FBA051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE551982-6B0C-45AB-BCA8-CBF7022FDC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE551982-6B0C-45AB-BCA8-CBF7022FDC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE551982-6B0C-45AB-BCA8-CBF7022FDC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE551982-6B0C-45AB-BCA8-CBF7022FDC22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C26F296-AAF9-4F93-A4EB-9A6A81D0A742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C26F296-AAF9-4F93-A4EB-9A6A81D0A742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C26F296-AAF9-4F93-A4EB-9A6A81D0A742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C26F296-AAF9-4F93-A4EB-9A6A81D0A742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
